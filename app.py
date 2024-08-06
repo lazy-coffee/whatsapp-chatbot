@@ -103,7 +103,7 @@ def chatbot():
                 'Series Title 2'
                 )
             sermonmessage2 = response.message(
-                'Browse our past sermons at'
+                'Browse our past sermons at\n'
                 'https://www.youtube.com/@hotrlagos'
                 )
             servicemessage5 = response.message('Reply back or 0 to return to the main menu.')
